@@ -14,8 +14,8 @@
 - Tools: Git, Docker, VS Code
 
 ## GitHub Stats
-- 📈 Lines of code: 1000
-- 🛠️ Most used language: C
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[afrujaislamasha]&show_icons=true&theme=radical)
+
 
 Feel free to reach out if you’d like to collaborate or chat!
 
