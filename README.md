@@ -14,7 +14,9 @@
 - Tools: Git, Docker, VS Code
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrujaislamasha&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrujaislamash&show_icons=true&locale=en&layout=compact" alt="afrujaislamash" /></p>
+
 
 
 Feel free to reach out if you’d like to collaborate or chat!
