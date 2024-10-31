@@ -14,8 +14,8 @@
 - Tools: Git, Docker, VS Code
 
 ## GitHub Stats
-- 📈 Lines of code: [Insert your total lines of code here]
-- 🛠️ Most used language: [Insert your most used language here]
+- 📈 Lines of code: 1000
+- 🛠️ Most used language: C
 
 Feel free to reach out if you’d like to collaborate or chat!
 
